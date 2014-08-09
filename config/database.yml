@@ -1,0 +1,21 @@
+default: &default
+  adapter: postgresql
+  reconnect: false
+  pool: 10
+  username: viki
+  password:
+
+legacy_development:
+  <<: *default
+  host: 127.0.0.1
+  database: subber_1010
+
+development:
+  <<: *default
+  host: 127.0.0.1
+  database: viki_graph_development
+
+test:
+  <<: *default
+  host: 127.0.0.1
+  database: viki_graph_test
