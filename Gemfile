@@ -13,4 +13,5 @@ gem 'neography', '~> 1.6.0'
 
 group :development do
   gem 'spring'
+  gem 'pry-rails', '~> 0.3.2'
 end
