@@ -1,0 +1,1415 @@
+---
+ab:
+  direction: ltr
+  native_name: Abkhazian
+  name:
+    en: Abkhazian
+    es: Abjasio
+    ja: アブハズ語
+aa:
+  direction: ltr
+  native_name: Afar
+  name:
+    en: Afar
+    es: Afar
+    ja: アファール語
+af:
+  direction: ltr
+  native_name: Afrikaans
+  name:
+    en: Afrikaans
+    es: Afrikaans
+    ja: アフリカーンス語
+ak:
+  direction: ltr
+  native_name: Akana
+  name:
+    en: Akan
+    es: Akan
+    ja: アカン語
+sq:
+  direction: ltr
+  native_name: Shqip
+  name:
+    en: Albanian
+    es: Albanés
+    ja: アルバニア語
+al:
+  direction: ltr
+  native_name: Alemannisch
+  name:
+    en: Alemannic
+    es: Alemánico
+    ja: アレマン語
+am:
+  direction: ltr
+  native_name: Amharic
+  name:
+    en: Amharic
+    es: Amárico
+    ja: アムハラ語
+ag:
+  direction: ltr
+  native_name: AngloSaxon
+  name:
+    en: Anglo-Saxon
+    es: Anglosajón
+    ja: アングロサクソン語
+ar:
+  direction: rtl
+  native_name: العربية
+  name:
+    en: Arabic
+    es: Árabe
+    ja: アラビア語
+an:
+  direction: ltr
+  native_name: Aragonés
+  name:
+    en: Aragonese
+    es: Aragonés
+    ja: アラゴン語
+hy:
+  direction: ltr
+  native_name: Հայերեն
+  name:
+    en: Armenian
+    es: Armenio
+    ja: アルメニア語
+ra:
+  direction: ltr
+  native_name: Armãneashce
+  name:
+    en: Aromanian
+    es: Arrumano
+    ja: アルーマニア語
+as:
+  direction: ltr
+  native_name: Assamese
+  name:
+    en: Assamese
+    es: Asamés
+    ja: アッサム語
+at:
+  direction: ltr
+  native_name: Asturianu
+  name:
+    en: Asturian
+    es: Asturiano
+    ja: アストゥリアス語
+av:
+  direction: ltr
+  native_name: Авар
+  name:
+    en: Avar
+    es: Avar
+    ja: アヴァル語
+ay:
+  direction: ltr
+  native_name: Aymar
+  name:
+    en: Aymara
+    es: Aimara
+    ja: アイマラ語
+az:
+  direction: ltr
+  native_name: Azərbaycan
+  name:
+    en: Azeri
+    es: Azerí
+    ja: アゼルバイジャン語
+bm:
+  direction: ltr
+  native_name: Bamanankan
+  name:
+    en: Bambara
+    es: Bambara
+    ja: バンバラ語
+ba:
+  direction: ltr
+  native_name: Башҡорт
+  name:
+    en: Bashkir
+    es: Bashkir
+    ja: バシキール語
+eu:
+  direction: ltr
+  native_name: Euskara
+  name:
+    en: Basque
+    es: Vasco
+    ja: バスク語
+be:
+  direction: ltr
+  native_name: Беларуская
+  name:
+    en: Belarusian
+    es: Bielorruso
+    ja: ベラルーシ語
+bn:
+  direction: ltr
+  native_name: Bengali
+  name:
+    en: Bengali
+    es: Bengalí
+    ja: ベンガル語
+bh:
+  direction: ltr
+  native_name: भोजपुरी
+  name:
+    en: Bihari
+    es: Bihari
+    ja: ビハール語
+bi:
+  direction: ltr
+  native_name: Bislama
+  name:
+    en: Bislama
+    es: Bislama
+    ja: ビスラマ語
+bs:
+  direction: ltr
+  native_name: Bosanski
+  name:
+    en: Bosnian
+    es: Bosnio
+    ja: ボスニア語
+br:
+  direction: ltr
+  native_name: Brezhoneg
+  name:
+    en: Breton
+    es: Bretón
+    ja: ブルトン語
+bg:
+  direction: ltr
+  native_name: Български
+  name:
+    en: Bulgarian
+    es: Búlgaro
+    ja: ブルガリア語
+my:
+  direction: ltr
+  native_name: Myanmasa
+  name:
+    en: Burmese
+    es: Birmano
+    ja: ビルマ語（ミャンマー語）
+km:
+  direction: ltr
+  native_name: Khmer
+  name:
+    en: Khmer
+    es: Jemer
+    ja: クメール語
+ca:
+  direction: ltr
+  native_name: Català
+  name:
+    en: Catalan
+    es: Catalán
+    ja: カタルーニャ語
+ch:
+  direction: ltr
+  native_name: Chamoru
+  name:
+    en: Chamorro
+    es: Chamorro
+    ja: チャモロ語
+ce:
+  direction: ltr
+  native_name: Cherokee
+  name:
+    en: Cherokee
+    es: Checheno
+    ja: チェロキー語
+zh:
+  direction: ltr
+  native_name: 简体中文
+  name:
+    en: Chinese(简体)
+    es: Chino simplificado
+    ja: 中国語（簡体字）
+zt:
+  direction: ltr
+  native_name: 繁體中文
+  name:
+    en: Chinese(繁體)
+    es: Chino tradicionál
+    ja: 中国語（繁体字）
+kw:
+  direction: ltr
+  native_name: Kernewek/Karnuack
+  name:
+    en: Cornish
+    es: Córnico
+    ja: コーンウォール語
+co:
+  direction: ltr
+  native_name: Corsu
+  name:
+    en: Corsican
+    es: Corso
+    ja: コルシカ語
+cr:
+  direction: ltr
+  native_name: Nehiyaw
+  name:
+    en: Cree
+    es: Cree
+    ja: クリー語
+hr:
+  direction: ltr
+  native_name: Hrvatski
+  name:
+    en: Croatian
+    es: Croata
+    ja: クロアチア語
+cs:
+  direction: ltr
+  native_name: Čeština
+  name:
+    en: Czech
+    es: Checo
+    ja: チェコ語
+da:
+  direction: ltr
+  native_name: Dansk
+  name:
+    en: Danish
+    es: Danés
+    ja: デンマーク語
+dv:
+  direction: ltr
+  native_name: Divehi
+  name:
+    en: Divehi
+    es: Divehi
+    ja: ディベヒ語
+nl:
+  direction: ltr
+  native_name: Nederlands
+  name:
+    en: Dutch
+    es: Neerlandés
+    ja: オランダ語
+dz:
+  direction: ltr
+  native_name: Dzongkha
+  name:
+    en: Dzongkha
+    es: Dzongkha
+    ja: ゾンカ語
+en:
+  direction: ltr
+  native_name: English
+  name:
+    en: English
+    es: Inglés
+    ja: 英語
+eo:
+  direction: ltr
+  native_name: Esperanto
+  name:
+    en: Esperanto
+    es: Esperanto
+    ja: エスペラント
+et:
+  direction: ltr
+  native_name: Eesti
+  name:
+    en: Estonian
+    es: Estonio
+    ja: エストニア語
+fo:
+  direction: ltr
+  native_name: Føroyskt
+  name:
+    en: Faroese
+    es: Feroés
+    ja: フェロー語
+fj:
+  direction: ltr
+  native_name: Na Vosa Vakaviti
+  name:
+    en: Fijian
+    es: Fiyiano
+    ja: フィジー語
+fi:
+  direction: ltr
+  native_name: Suomi
+  name:
+    en: Finnish
+    es: Finés
+    ja: フィンランド語
+fr:
+  direction: ltr
+  native_name: Français
+  name:
+    en: French
+    es: Francés
+    ja: フランス語
+gl:
+  direction: ltr
+  native_name: Galego
+  name:
+    en: Galician
+    es: Gallego
+    ja: ガリシア語
+ka:
+  direction: ltr
+  native_name: ქართული
+  name:
+    en: Georgian
+    es: Georgiano
+    ja: グルジア語
+de:
+  direction: ltr
+  native_name: Deutsch
+  name:
+    en: German
+    es: Alemán
+    ja: ドイツ語
+el:
+  direction: ltr
+  native_name: Ελληνικά
+  name:
+    en: Greek
+    es: Griego
+    ja: ギリシア語
+kl:
+  direction: ltr
+  native_name: Kalaallisut
+  name:
+    en: Greenlandic
+    es: Groenlandés
+    ja: グリーンランド語
+gn:
+  direction: ltr
+  native_name: Avañe'ẽ
+  name:
+    en: Guarani
+    es: Guaraní
+    ja: グアラニー語
+gu:
+  direction: ltr
+  native_name: ગુજરાતી
+  name:
+    en: Gujarati
+    es: Gujarati
+    ja: グジャラート語
+ha:
+  direction: rtl
+  native_name: هَوُسَ
+  name:
+    en: Hausa
+    es: Hausa
+    ja: ハウサ語
+he:
+  direction: rtl
+  native_name: עברית
+  name:
+    en: Hebrew
+    es: Hebreo
+    ja: ヘブライ語
+hi:
+  direction: ltr
+  native_name: हिन्दी
+  name:
+    en: Hindi
+    es: Hindi
+    ja: ヒンディー語
+hm:
+  direction: ltr
+  native_name: Hmong
+  name:
+    en: Hmong
+    es: Hmong
+    ja: ミャオ語
+hu:
+  direction: ltr
+  native_name: Magyar
+  name:
+    en: Hungarian
+    es: Húngaro
+    ja: ハンガリー語
+is:
+  direction: ltr
+  native_name: Íslenska
+  name:
+    en: Icelandic
+    es: Islandés
+    ja: アイスランド語
+io:
+  direction: ltr
+  native_name: Ido
+  name:
+    en: Ido
+    es: Ido
+    ja: イド語
+id:
+  direction: ltr
+  native_name: BahasaIndonesia
+  name:
+    en: Indonesian
+    es: Indonesio
+    ja: インドネシア語
+ia:
+  direction: ltr
+  native_name: Interlingua
+  name:
+    en: Interlingua
+    es: Interlingua
+    ja: インターリングア
+ie:
+  direction: ltr
+  native_name: Interlingue
+  name:
+    en: Interlingue
+    es: Interlingue
+    ja: インターリング
+iu:
+  direction: ltr
+  native_name: Inuktitut
+  name:
+    en: Inuktitut
+    es: Inuktitut
+    ja: イヌクティトゥット語 
+ik:
+  direction: ltr
+  native_name: Iñupiak
+  name:
+    en: Inupiak
+    es: Inupiaq
+    ja: イヌピアック語
+ga:
+  direction: ltr
+  native_name: Gaeilge
+  name:
+    en: Irish
+    es: Irlandés
+    ja: アイルランド語
+it:
+  direction: ltr
+  native_name: Italiano
+  name:
+    en: Italian
+    es: Italiano
+    ja: イタリア語
+ja:
+  direction: ltr
+  native_name: 日本語
+  name:
+    en: Japanese
+    es: Japonés
+    ja: 日本語
+jv:
+  direction: ltr
+  native_name: Basa Jawa
+  name:
+    en: Javanese
+    es: Javanés
+    ja: ジャワ語
+kn:
+  direction: ltr
+  native_name: ಕನ್ನಡ
+  name:
+    en: Kannada
+    es: Canarés
+    ja: カンナダ語
+ks:
+  direction: ltr
+  native_name: कश्मीरी-(كشميري
+  name:
+    en: Kashmiri
+    es: Cachemiro
+    ja: カシミール語
+cb:
+  direction: ltr
+  native_name: Kaszëbsczi
+  name:
+    en: Kashubian
+    es: Casubio
+    ja: カシューブ語
+mu:
+  direction: ltr
+  native_name: Karaoke
+  name:
+    en: Karaoke
+    es: Karaoke
+    ja: カラオケ
+kk:
+  direction: ltr
+  native_name: қазақша
+  name:
+    en: Kazakh
+    es: Kazajo
+    ja: カザフ語
+ky:
+  direction: ltr
+  native_name: Kırgızca
+  name:
+    en: Kirghiz
+    es: Kirghiz
+    ja: キルギス語
+rn:
+  direction: ltr
+  native_name: Kirundi
+  name:
+    en: Kirundi
+    es: Kiroundi
+    ja: キルンディ語
+tm:
+  direction: ltr
+  native_name: tlh Ingan-Hol
+  name:
+    en: Klingon
+    es: Klingon
+    ja: クリゴン語
+ko:
+  direction: ltr
+  native_name: 한국어
+  name:
+    en: Korean
+    es: Coreano
+    ja: 韓国語
+ku:
+  direction: ltr
+  native_name: Kurdî/كوردی
+  name:
+    en: Kurdish
+    es: Kurdo
+    ja: クルド語
+lo:
+  direction: ltr
+  native_name: Lao
+  name:
+    en: Lao
+    es: Laosiano
+    ja: ラーオ語
+la:
+  direction: ltr
+  native_name: Latina
+  name:
+    en: Latin
+    es: Latín
+    ja: ラテン語
+lv:
+  direction: ltr
+  native_name: Latviešu
+  name:
+    en: Latvian
+    es: Letón
+    ja: ラトビア語
+li:
+  direction: ltr
+  native_name: Limburgs
+  name:
+    en: Limburgian
+    es: Limburgués
+    ja: リンブルフ語
+ln:
+  direction: ltr
+  native_name: Lingala
+  name:
+    en: Lingala
+    es: Lingala
+    ja: リンガラ語
+lt:
+  direction: ltr
+  native_name: Lietuvių
+  name:
+    en: Lithuanian
+    es: Lituano
+    ja: リトアニア語
+jb:
+  direction: ltr
+  native_name: Lojban
+  name:
+    en: Lojban
+    es: Lojban
+    ja: ロジバン
+nd:
+  direction: ltr
+  native_name: Plattdüütsch
+  name:
+    en: Low Saxon
+    es: Ndebele Septentrional
+    ja: 低ザクセン語
+lb:
+  direction: ltr
+  native_name: Lëtzebuergesch
+  name:
+    en: Luxembourgish
+    es: Luxemburgués
+    ja: ルクセンブルク語
+mk:
+  direction: ltr
+  native_name: Македонски
+  name:
+    en: Macedonian
+    es: Macedonio
+    ja: マケドニア語
+mg:
+  direction: ltr
+  native_name: Malagasy
+  name:
+    en: Malagasy
+    es: Malgache
+    ja: マダガスカル語
+ms:
+  direction: ltr
+  native_name: Bahasa Melayu
+  name:
+    en: Malay
+    es: Malayo
+    ja: マレー語
+ml:
+  direction: ltr
+  native_name: Malayalam
+  name:
+    en: Malayalam
+    es: Malayalam
+    ja: マラヤーラム語
+mt:
+  direction: ltr
+  native_name: bil-Malti
+  name:
+    en: Maltese
+    es: Maltés
+    ja: マルタ語
+gv:
+  direction: ltr
+  native_name: Gaelg
+  name:
+    en: Manx
+    es: Gaélicomanés
+    ja: マン島語
+mi:
+  direction: ltr
+  native_name: Māori
+  name:
+    en: Maori
+    es: Maorí
+    ja: マオリ語
+mr:
+  direction: ltr
+  native_name: मराठी
+  name:
+    en: Marathi
+    es: Marathi
+    ja: マラーティー語
+mh:
+  direction: ltr
+  native_name: Ebon
+  name:
+    en: Marshallese
+    es: Marshalés
+    ja: マーシャル語
+zm:
+  direction: ltr
+  native_name: Bân-lâm-gú
+  name:
+    en: Min Nan
+    es: Min Nan
+    ja: 閩南語 
+mo:
+  direction: ltr
+  native_name: Moldoveana
+  name:
+    en: Moldovan
+    es: Moldavo
+    ja: モルドバ語
+mn:
+  direction: ltr
+  native_name: Монгол
+  name:
+    en: Mongolian
+    es: Mongol
+    ja: モンゴル語
+nh:
+  direction: ltr
+  native_name: Nahuatl
+  name:
+    en: Nahuatl
+    es: Náhuatl
+    ja: ナワトル語
+na:
+  direction: ltr
+  native_name: dorerin Naoero
+  name:
+    en: Nauruan
+    es: Nauruano
+    ja: ナウル語
+ne:
+  direction: ltr
+  native_name: नेपाली
+  name:
+    en: Nepali
+    es: Nepalí
+    ja: ネパール語
+'no':
+  direction: ltr
+  native_name: Norsk(Bokmål)
+  name:
+    en: Norwegian (Bokmål)
+    es: Noruego
+    ja: ノルウェー語（ブークモール）
+nn:
+  direction: ltr
+  native_name: Nynorsk
+  name:
+    en: Norwegian (Nynorsk)
+    es: Nynorsknoruego
+    ja: ノルウェー語（ニーノシュク）
+oc:
+  direction: ltr
+  native_name: Occitan
+  name:
+    en: Occitan
+    es: Occitano
+    ja: オック語
+or:
+  direction: ltr
+  native_name: Oriya
+  name:
+    en: Oriya
+    es: Oriya
+    ja: オリヤー語
+om:
+  direction: ltr
+  native_name: Oromoo
+  name:
+    en: Oromo
+    es: Oromo
+    ja: オロモ語
+pi:
+  direction: ltr
+  native_name: पािऴ
+  name:
+    en: Pali
+    es: Pali
+    ja: パーリ語
+ps:
+  direction: rtl
+  native_name: پښتو
+  name:
+    en: Pashto
+    es: Pashto
+    ja: パシュトー語
+fa:
+  direction: rtl
+  native_name: فارسی
+  name:
+    en: Persian
+    es: Persa
+    ja: ペルシア語
+pl:
+  direction: ltr
+  native_name: Polski
+  name:
+    en: Polish
+    es: Polaco
+    ja: ポーランド語
+pt:
+  direction: ltr
+  native_name: Português
+  name:
+    en: Portuguese
+    es: Portugués
+    ja: ポルトガル語
+pa:
+  direction: ltr
+  native_name: ਪੰਜਾਬੀ
+  name:
+    en: Punjabi
+    es: Punjabí
+    ja: パンジャブ語
+qu:
+  direction: ltr
+  native_name: Runa Simi
+  name:
+    en: Quechua
+    es: Quechua
+    ja: ケチュア語
+rm:
+  direction: ltr
+  native_name: Rumantsch
+  name:
+    en: Raeto Romance
+    es: Retorrománico
+    ja: レトロマン語
+ro:
+  direction: ltr
+  native_name: Română
+  name:
+    en: Romanian
+    es: Rumano
+    ja: ルーマニア語
+ru:
+  direction: ltr
+  native_name: Русский
+  name:
+    en: Russian
+    es: Ruso
+    ja: ロシア語
+sm:
+  direction: ltr
+  native_name: Gagana Samoa
+  name:
+    en: Samoan
+    es: Samoano
+    ja: サモア語
+sg:
+  direction: ltr
+  native_name: Sängö
+  name:
+    en: Sango
+    es: Sango
+    ja: サンゴ語
+sa:
+  direction: ltr
+  native_name: संस्कृतम्
+  name:
+    en: Sanskrit
+    es: Sánscrito
+    ja: サンスクリット語
+sc:
+  direction: ltr
+  native_name: Sardu
+  name:
+    en: Sardinian
+    es: Sardo
+    ja: サルディーニャ語
+gd:
+  direction: ltr
+  native_name: Gàidhlig
+  name:
+    en: Scottish Gaelic
+    es: Gaélico Escocés
+    ja: スコットランド・ゲール語
+sr:
+  direction: ltr
+  native_name: Српски/Srpski
+  name:
+    en: Serbian
+    es: Serbio
+    ja: セルビア語
+sh:
+  direction: ltr
+  native_name: Srpskohrvatski
+  name:
+    en: Serbo-Croatian
+    es: Serbocroata
+    ja: セルビア・クロアチア語
+tn:
+  direction: ltr
+  native_name: Setswana
+  name:
+    en: Setswana
+    es: Setchwana
+    ja: ツワナ語
+sn:
+  direction: ltr
+  native_name: chi Shona
+  name:
+    en: Shona
+    es: Shona
+    ja: ショナ語
+sb:
+  direction: ltr
+  native_name: Sicilianu
+  name:
+    en: Sicilian
+    es: Siciliano
+    ja: シチリア語
+se:
+  direction: ltr
+  native_name: Simple English
+  name:
+    en: Simple English
+    es: Inglés simplificado
+    ja: ベーシック英語
+sd:
+  direction: rtl
+  native_name: سنڌي
+  name:
+    en: Sindhi
+    es: Sindhi
+    ja: シンド語
+si:
+  direction: ltr
+  native_name: Sinhalese
+  name:
+    en: Sinhalese
+    es: Cingalés
+    ja: シンハラ語
+sk:
+  direction: ltr
+  native_name: Slovenčina
+  name:
+    en: Slovak
+    es: Eslovaco
+    ja: スロバキア語
+sl:
+  direction: ltr
+  native_name: Slovenščina
+  name:
+    en: Slovenian
+    es: Esloveno
+    ja: スロベニア語
+so:
+  direction: ltr
+  native_name: Soomaaliga
+  name:
+    en: Somali
+    es: Somalí
+    ja: ソマリ語
+st:
+  direction: ltr
+  native_name: Sesotho
+  name:
+    en: Southern Sotho
+    es: Sesotho
+    ja: ソト語
+es:
+  direction: ltr
+  native_name: Español
+  name:
+    en: Spanish
+    es: Español
+    ja: スペイン語
+su:
+  direction: ltr
+  native_name: Basa Sunda
+  name:
+    en: Sundanese
+    es: Sundanés
+    ja: スンダ語
+sw:
+  direction: ltr
+  native_name: Kiswahili
+  name:
+    en: Swahili
+    es: Swahili
+    ja: スワヒリ語
+ss:
+  direction: ltr
+  native_name: Si Swati
+  name:
+    en: Swati
+    es: Siswati
+    ja: スワティ語
+sv:
+  direction: ltr
+  native_name: Svenska
+  name:
+    en: Swedish
+    es: Sueco
+    ja: スウェーデン語
+tl:
+  direction: ltr
+  native_name: Tagalog
+  name:
+    en: Tagalog
+    es: Tagalo
+    ja: タガログ語
+tg:
+  direction: ltr
+  native_name: Тоҷикӣ
+  name:
+    en: Tajik
+    es: Tayiko
+    ja: タジク語
+ta:
+  direction: ltr
+  native_name: தமிழ்
+  name:
+    en: Tamil
+    es: Tamil
+    ja: タミル語
+tt:
+  direction: ltr
+  native_name: Tatarça/Татарча
+  name:
+    en: Tatar
+    es: Tártaro
+    ja: タタール語
+te:
+  direction: ltr
+  native_name: తెలుగు
+  name:
+    en: Telugu
+    es: Telugu
+    ja: テルグ語
+th:
+  direction: ltr
+  native_name: ไทย
+  name:
+    en: Thai
+    es: Tailandés
+    ja: タイ語
+bo:
+  direction: ltr
+  native_name: Bodskad
+  name:
+    en: Tibetan
+    es: Tibetano
+    ja: チベット語
+ti:
+  direction: ltr
+  native_name: Tigrinya
+  name:
+    en: Tigrinya
+    es: Tegriña
+    ja: ティグリニア語
+tp:
+  direction: ltr
+  native_name: Tok Pisin
+  name:
+    en: Tok Pisin
+    es: Tok Pisin
+    ja: トク・ピシン語
+tq:
+  direction: ltr
+  native_name: Tokipona
+  name:
+    en: Tokipona
+    es: Tokipona
+    ja: トキポナ
+to:
+  direction: ltr
+  native_name: Faka Tonga
+  name:
+    en: Tongan
+    es: Tonga (islas tonga)
+    ja: トンガ語
+ts:
+  direction: ltr
+  native_name: Xitsonga
+  name:
+    en: Tsonga
+    es: Tsonga
+    ja: ツォンガ語
+tr:
+  direction: ltr
+  native_name: Türkçe
+  name:
+    en: Turkish
+    es: Turco
+    ja: トルコ語
+tk:
+  direction: ltr
+  native_name: تركمن/Туркмен
+  name:
+    en: Turkmen
+    es: Turcomano
+    ja: トルクメン語
+tw:
+  direction: ltr
+  native_name: Twi
+  name:
+    en: Twi
+    es: Twi
+    ja: トウィ語
+udm:
+  direction: ltr
+  native_name: УдмуртЭлькун
+  name:
+    en: Udmurt
+    es: Udmurto
+    ja: ウドムルト語
+uk:
+  direction: ltr
+  native_name: Українська
+  name:
+    en: Ukrainian
+    es: Ucraniano
+    ja: ウクライナ語
+ur:
+  direction: rtl
+  native_name: اڙدو
+  name:
+    en: Urdu
+    es: Urdu
+    ja: ウルドゥー語
+ug:
+  direction: ltr
+  native_name: Oyghurque
+  name:
+    en: Uyghur
+    es: Uigur
+    ja: ウイグル語
+uz:
+  direction: ltr
+  native_name: O‘zbek
+  name:
+    en: Uzbek
+    es: Uzbeko
+    ja: ウズベク語
+vi:
+  direction: ltr
+  native_name: TiếngViệt
+  name:
+    en: Vietnamese
+    es: Vietnamita
+    ja: ベトナム語
+vo:
+  direction: ltr
+  native_name: Volapük
+  name:
+    en: Volapük
+    es: Volapük
+    ja: ヴォラピュク
+wa:
+  direction: ltr
+  native_name: Walon
+  name:
+    en: Walloon
+    es: Valón
+    ja: ワロン語
+cy:
+  direction: ltr
+  native_name: Cymraeg
+  name:
+    en: Welsh
+    es: Galés
+    ja: ウェールズ語
+fy:
+  direction: ltr
+  native_name: Frysk
+  name:
+    en: WestFrisian
+    es: Frisón
+    ja: 西フリジア語
+wo:
+  direction: ltr
+  native_name: Wollof
+  name:
+    en: Wolof
+    es: Uolof
+    ja: ウォロフ語
+xh:
+  direction: ltr
+  native_name: isiXhosa
+  name:
+    en: Xhosan
+    es: Xhosa
+    ja: ホサ語
+yi:
+  direction: rtl
+  native_name: ייִדיש
+  name:
+    en: Yiddish
+    es: Yidis
+    ja: イディッシュ語
+yo:
+  direction: ltr
+  native_name: Yorùbá
+  name:
+    en: Yoruba
+    es: Yoruba
+    ja: ヨルバ語
+za:
+  direction: ltr
+  native_name: Cuengh
+  name:
+    en: Zhuang
+    es: Zhuang
+    ja: チワン語
+zu:
+  direction: ltr
+  native_name: isiZulu
+  name:
+    en: Zulu
+    es: Zulú
+    ja: ズールー語
+han:
+  direction: ltr
+  native_name: 湖南话
+  name:
+    en: Xiang
+    es: Xiang
+    ja: 湘語
+hak:
+  direction: ltr
+  native_name: 客家
+  name:
+    en: Hakka
+    es: Hakka
+    ja: 客家語
+bho:
+  direction: ltr
+  native_name: भोजपुरी
+  name:
+    en: Bhojpuri
+    es: Bhojpuri
+    ja: ポージブリー語
+mai:
+  direction: ltr
+  native_name: मैथिली
+  name:
+    en: Maithili
+    es: Maithili
+    ja: マイティリー語
+ful:
+  direction: ltr
+  native_name: Fula
+  name:
+    en: Fula
+    es: Fula
+    ja: フラ語
+ibo:
+  direction: ltr
+  native_name: Igbo
+  name:
+    en: Igbo
+    es: Igbo
+    ja: イボ語
+gan:
+  direction: ltr
+  native_name: 贛語
+  name:
+    en: Gan
+    es: Gan
+    ja: カン語
+ceb:
+  direction: ltr
+  native_name: Binisaya
+  name:
+    en: Cebuano/Binisaya
+    es: Cebuano/Bisaya
+    ja: セブアノ語/ビサヤ語
+skr:
+  direction: ltr
+  native_name: سرائیکی
+  name:
+    en: Saraiki
+    es: Saraiki
+    ja: サライキ語
+ctg:
+  direction: ltr
+  native_name: টগাঁইয়াবুলি
+  name:
+    en: Chittagonian
+    es: Chittagonian
+    ja: チッタゴン語
+mad:
+  direction: ltr
+  native_name: بَهاسَمَدورا
+  name:
+    en: Madurese
+    es: Madurés
+    ja: マドゥラ語
+bgc:
+  direction: ltr
+  native_name: हरियाणवी
+  name:
+    en: Haryanvi
+    es: Haryanvi
+    ja: ハリヤーンウィー語
+mwr:
+  direction: ltr
+  native_name: मारवाड़ी
+  name:
+    en: Marwari
+    es: Marwari
+    ja: マールワーリー語
+hne:
+  direction: ltr
+  native_name: छत्तीसगढ़ी
+  name:
+    en: Chhattisgarhi
+    es: Chhattisgarhi
+    ja: チャッティースガリー語 
+nya:
+  direction: ltr
+  native_name: Nyanja
+  name:
+    en: Chewa/Nyanja
+    es: Chewa/Nyanja
+    ja: チェワ語/ニャンジャ語
+dcc:
+  direction: ltr
+  native_name: دکنی‎
+  name:
+    en: Dakhini
+    es: Dakani
+    ja: ダーキニー語
+mnp:
+  direction: ltr
+  native_name: 闽北语
+  name:
+    en: Min Bei
+    es: Min Bei
+    ja: 閩北語
+cdo:
+  direction: ltr
+  native_name: 閩東語
+  name:
+    en: Min Dong
+    es: Min Dong
+    ja: 閩東語
+syl:
+  direction: ltr
+  native_name: ছিলটী
+  name:
+    en: Sylheti
+    es: Sylheti
+    ja: シロティ語
+kin:
+  direction: ltr
+  native_name: Ikinyarwanda
+  name:
+    en: Kinyarwanda
+    es: Kinyarwanda
+    ja: ルワンダ語
+hat:
+  direction: ltr
+  native_name: Kreyòlayisyen
+  name:
+    en: Haitian Creole
+    es: Criollo Haitiano
+    ja: ハイチ・クレオール語
+ilo:
+  direction: ltr
+  native_name: Ilokano
+  name:
+    en: Ilokano
+    es: Ilocano
+    ja: イロカノ語
+mos:
+  direction: ltr
+  native_name: Mòoré
+  name:
+    en: Mossi
+    es: Moré
+    ja: モシ語
+bal:
+  direction: ltr
+  native_name: بلوچی
+  name:
+    en: Balochi
+    es: Baluchi
+    ja: バルーチー語
+kok:
+  direction: ltr
+  native_name: कोंकणी
+  name:
+    en: Konkani
+    es: Konkaní
+    ja: コンカニ語
+zom:
+  direction: ltr
+  native_name: Zomi
+  name:
+    en: Zomi
+    es: Zomi
+    ja: ゾミ語
+lol:
+  direction: ltr
+  native_name: lolspeak
+  name:
+    en: lolspeak
+    es: lolspeak
+    ja: lolspeak

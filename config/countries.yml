@@ -1,0 +1,1447 @@
+---
+af:
+  native: افغانستان
+  name:
+    en: Afghanistan
+    es: Afganistán
+    ja: アフガニスタン
+al:
+  native: Shqipëria
+  name:
+    en: Albania
+    es: Albania
+    ja: アルバニア
+dz:
+  native: الجزائر
+  name:
+    en: Algeria
+    es: Argelia
+    ja: アルジェリア
+as:
+  native: American Samoa
+  name:
+    en: American Samoa
+    es: Samoa Americana
+    ja: 米領サモア
+ad:
+  native: Andorra
+  name:
+    en: Andorra
+    es: Andorra
+    ja: アンドラ
+ao:
+  native: Angola
+  name:
+    en: Angola
+    es: Angola
+    ja: アンゴラ
+ai:
+  native: Anguilla
+  name:
+    en: Anguilla
+    es: Anguila
+    ja: アンギラ
+aq:
+  native: Antarctica
+  name:
+    en: Antarctica
+    es: Antártida
+    ja: 南極大陸
+ag:
+  native: Antigua and Barbuda
+  name:
+    en: Antigua and Barbuda
+    es: Antigua y Barbuda
+    ja: アンティグア・バーブーダ
+ar:
+  native: Argentina
+  name:
+    en: Argentina
+    es: Argentina
+    ja: アルゼンチン
+am:
+  native: Հայաստան
+  name:
+    en: Armenia
+    es: Armenia
+    ja: アルメニア
+aw:
+  native: Aruba
+  name:
+    en: Aruba
+    es: Aruba
+    ja: アルバ
+au:
+  native: Australia
+  name:
+    en: Australia
+    es: Australia
+    ja: オーストラリア
+at:
+  native: Österreich
+  name:
+    en: Austria
+    es: Austria
+    ja: オーストリア
+az:
+  native: Azərbaycan
+  name:
+    en: Azerbaijan
+    es: Azerbaiyán
+    ja: アゼルバイジャン
+bs:
+  native: Bahamas
+  name:
+    en: Bahamas
+    es: Bahamas
+    ja: バハマ
+bh:
+  native: البحرين
+  name:
+    en: Bahrain
+    es: Bahréin
+    ja: バーレーン
+bd:
+  native: বাংলাদেশ
+  name:
+    en: Bangladesh
+    es: Bangladesh
+    ja: バングラディッシュ
+bb:
+  native: Barbados
+  name:
+    en: Barbados
+    es: Barbados
+    ja: バルバドス
+by:
+  native: Белару́сь
+  name:
+    en: Belarus
+    es: Bielorrusia
+    ja: ベラルーシ
+be:
+  native: België
+  name:
+    en: Belgium
+    es: Bélgica
+    ja: ベルギー
+bz:
+  native: Belize
+  name:
+    en: Belize
+    es: Belice
+    ja: ベリーズ
+bj:
+  native: Bénin
+  name:
+    en: Benin
+    es: Benín
+    ja: ベナン
+bm:
+  native: Bermuda
+  name:
+    en: Bermuda
+    es: Bermudas
+    ja: バミューダ諸島
+bt:
+  native: འབྲུག་ཡུལ
+  name:
+    en: Bhutan
+    es: Bután
+    ja: ブータン
+bo:
+  native: Bolivia
+  name:
+    en: Bolivia
+    es: Bolivia
+    ja: ボリビア
+ba:
+  native: Bosna i Hercegovina
+  name:
+    en: Bosnia and Herzegovina
+    es: Bosnia-Herzegovina
+    ja: ボスニア・ヘルツェゴビナ
+bw:
+  native: Botswana
+  name:
+    en: Botswana
+    es: Botsuana
+    ja: ボツワナ
+bv:
+  native: Bouvet Island
+  name:
+    en: Bouvet Island
+    es: Isla Bouvet
+    ja: ブーベ島
+br:
+  native: Brasil
+  name:
+    en: Brazil
+    es: Brasil
+    ja: ブラジル
+io:
+  native: British Indian Ocean Territory
+  name:
+    en: British Indian Ocean Territory
+    es: Territorio Británico del Océano Índico
+    ja: イギリス領インド洋地域
+bn:
+  native: Brunei Darussalam
+  name:
+    en: Brunei
+    es: Brunéi
+    ja: ブルネイ
+bg:
+  native: България
+  name:
+    en: Bulgaria
+    es: Bulgaria
+    ja: ブルガリア
+bf:
+  native: Burkina Faso
+  name:
+    en: Burkina Faso
+    es: Burkina Faso
+    ja: ブルキナファソ
+bi:
+  native: Uburundi
+  name:
+    en: Burundi
+    es: Burundi
+    ja: ブルンジ
+kh:
+  native: Kampuchea
+  name:
+    en: Cambodia
+    es: Camboya
+    ja: カンボジア
+cm:
+  native: Cameroun
+  name:
+    en: Cameroon
+    es: Camerún
+    ja: カメルーン
+ca:
+  native: Canada
+  name:
+    en: Canada
+    es: Canadá
+    ja: カナダ
+cv:
+  native: Cabo Verde
+  name:
+    en: Cape Verde
+    es: Cabo Verde
+    ja: カーボヴェルデ
+ky:
+  native: Cayman Islands
+  name:
+    en: Cayman Islands
+    es: Islas Caimán
+    ja: ケイマン諸島
+cf:
+  native: République Centrafricaine
+  name:
+    en: Central African Republic
+    es: República Centroafricana
+    ja: 中央アフリカ共和国
+td:
+  native: Tchad
+  name:
+    en: Chad
+    es: Chad
+    ja: チャド
+cl:
+  native: Chile
+  name:
+    en: Chile
+    es: Chile
+    ja: チリ
+cn:
+  native: 中国
+  name:
+    en: China
+    es: China
+    ja: 中国
+cx:
+  native: Christmas Island
+  name:
+    en: Christmas Island
+    es: Isla Christmas
+    ja: クリスマス島
+cc:
+  native: Cocos Islands
+  name:
+    en: Cocos Islands
+    es: Islas Cocos
+    ja: ココス諸島
+co:
+  native: Colombia
+  name:
+    en: Colombia
+    es: Colombia
+    ja: コロンビア
+km:
+  native: Comores
+  name:
+    en: Comoros
+    es: Comoras
+    ja: コモロ
+cg:
+  native: Republic Of Congo
+  name:
+    en: Republic Of Congo
+    es: Congo
+    ja: コンゴ共和国
+cd:
+  native: The Democratic Republic Of The Congo
+  name:
+    en: The Democratic Republic Of The Congo
+    es: República Democrática del Congo
+    ja: コンゴ民主共和国
+ck:
+  native: Cook Islands
+  name:
+    en: Cook Islands
+    es: Islas Cook
+    ja: クック諸島
+cr:
+  native: Costa Rica
+  name:
+    en: Costa Rica
+    es: Costa Rica
+    ja: コスタリカ
+ci:
+  native: Côte d'Ivoire
+  name:
+    en: Côte d'Ivoire
+    es: Costa de Marfil
+    ja: コートジボワール
+hr:
+  native: Hrvatska
+  name:
+    en: Croatia
+    es: Croacia
+    ja: クロアチア
+cu:
+  native: Cuba
+  name:
+    en: Cuba
+    es: Cuba
+    ja: キューバ
+cy:
+  native: Κυπρος
+  name:
+    en: Cyprus
+    es: Chipre
+    ja: キプロス
+cz:
+  native: Česko
+  name:
+    en: Czech Republic
+    es: República Checa
+    ja: チェコ
+dk:
+  native: Danmark
+  name:
+    en: Denmark
+    es: Dinamarca
+    ja: デンマーク
+dj:
+  native: Djibouti
+  name:
+    en: Djibouti
+    es: Yibuti
+    ja: ジブチ
+dm:
+  native: Dominica
+  name:
+    en: Dominica
+    es: Dominica
+    ja: ドミニカ国
+do:
+  native: Dominican Republic
+  name:
+    en: Dominican Republic
+    es: República Dominicana
+    ja: ドミニカ共和国
+ec:
+  native: Ecuador
+  name:
+    en: Ecuador
+    es: Ecuador
+    ja: エクアドル
+eg:
+  native: مصر
+  name:
+    en: Egypt
+    es: Egipto
+    ja: エジプト
+sv:
+  native: El Salvador
+  name:
+    en: El Salvador
+    es: El Salvador
+    ja: エルサルバドル
+gq:
+  native: Guinea Ecuatorial
+  name:
+    en: Equatorial Guinea
+    es: Guinea Ecuatorial
+    ja: 赤道ギニア
+er:
+  native: Ertra
+  name:
+    en: Eritrea
+    es: Eritrea
+    ja: エリトリア
+ee:
+  native: Eesti
+  name:
+    en: Estonia
+    es: Estonia
+    ja: エストニア
+et:
+  native: Ityop'iya
+  name:
+    en: Ethiopia
+    es: Etiopía
+    ja: エチオピア
+fk:
+  native: Falkland Islands
+  name:
+    en: Falkland Islands
+    es: Islas Malvinas
+    ja: フォークランド諸島
+fo:
+  native: Faroe Islands
+  name:
+    en: Faroe Islands
+    es: Islas Feroe
+    ja: フェロー諸島
+fj:
+  native: Fiji
+  name:
+    en: Fiji
+    es: Fiyi
+    ja: フィジー
+fi:
+  native: Suomi
+  name:
+    en: Finland
+    es: Finlandia
+    ja: フィンランド
+fr:
+  native: France
+  name:
+    en: France
+    es: Francia
+    ja: フランス
+gf:
+  native: French Guiana
+  name:
+    en: French Guiana
+    es: Guayana Francesa
+    ja: フランス領ギアナ
+pf:
+  native: French Polynesia
+  name:
+    en: French Polynesia
+    es: Polinesia Francesa
+    ja: フランス領ポリネシア
+tf:
+  native: French Southern Territories
+  name:
+    en: French Southern Territories
+    es: Territorios Australes Franceses
+    ja: フランス領南方・南極地域
+ga:
+  native: Gabon
+  name:
+    en: Gabon
+    es: Gabón
+    ja: ガボン
+gm:
+  native: Gambia
+  name:
+    en: Gambia
+    es: Gambia
+    ja: ガンビア
+ge:
+  native: საქართველო
+  name:
+    en: Georgia
+    es: Georgia
+    ja: グルジア
+de:
+  native: Deutschland
+  name:
+    en: Germany
+    es: Alemania
+    ja: ドイツ
+gh:
+  native: Ghana
+  name:
+    en: Ghana
+    es: Ghana
+    ja: ガーナ
+gi:
+  native: Gibraltar
+  name:
+    en: Gibraltar
+    es: Gibraltar
+    ja: ジブラルタル
+gr:
+  native: Ελλάς
+  name:
+    en: Greece
+    es: Grecia
+    ja: ギリシャ
+gs:
+  native: South Georgia And The South Sandwich Islands
+  name:
+    en: South Georgia And The South Sandwich Islands
+    es: Islas Georgia del Sur y Sandwich del Sur
+    ja: サウスジョージア・サウスサンドウィッチ諸島
+gl:
+  native: Greenland
+  name:
+    en: Greenland
+    es: Groenlandia
+    ja: グリーンランド
+gd:
+  native: Grenada
+  name:
+    en: Grenada
+    es: Granada
+    ja: グレナダ
+gp:
+  native: Guadeloupe
+  name:
+    en: Guadeloupe
+    es: Guadalupe
+    ja: グアドループ
+gu:
+  native: Guam
+  name:
+    en: Guam
+    es: Guam
+    ja: グアム
+gt:
+  native: Guatemala
+  name:
+    en: Guatemala
+    es: Guatemala
+    ja: グアテマラ
+gn:
+  native: Guinée
+  name:
+    en: Guinea
+    es: Guinea
+    ja: ギニア
+gw:
+  native: Guiné-Bissau
+  name:
+    en: Guinea-Bissau
+    es: Guinea-Bissau
+    ja: ギニアビサウ
+gy:
+  native: Guyana
+  name:
+    en: Guyana
+    es: Guyana
+    ja: ガイアナ
+ht:
+  native: Haïti
+  name:
+    en: Haiti
+    es: Haití
+    ja: ハイチ
+hm:
+  native: Heard Island and McDonald Islands
+  name:
+    en: Heard Island and McDonald Islands
+    es: Islas Heard y McDonald
+    ja: ハード島とマクドナルド諸島
+hn:
+  native: Honduras
+  name:
+    en: Honduras
+    es: Honduras
+    ja: ホンジュラス
+hk:
+  native: Hong Kong
+  name:
+    en: Hong Kong
+    es: Hong Kong
+    ja: 香港
+hu:
+  native: Magyarország
+  name:
+    en: Hungary
+    es: Hungría
+    ja: ハンガリー
+is:
+  native: Ísland
+  name:
+    en: Iceland
+    es: Islandia
+    ja: アイスランド
+in:
+  native: India
+  name:
+    en: India
+    es: India
+    ja: インド
+id:
+  native: Indonesia
+  name:
+    en: Indonesia
+    es: Indonesia
+    ja: インドネシア
+ir:
+  native: ایران
+  name:
+    en: Iran
+    es: Irán
+    ja: イラン
+iq:
+  native: العراق
+  name:
+    en: Iraq
+    es: Iraq
+    ja: イラク
+ie:
+  native: Ireland
+  name:
+    en: Ireland
+    es: Irlanda
+    ja: アイルランド
+il:
+  native: ישראל
+  name:
+    en: Israel
+    es: Israel
+    ja: イスラエル
+it:
+  native: Italia
+  name:
+    en: Italy
+    es: Italia
+    ja: イタリア
+jm:
+  native: Jamaica
+  name:
+    en: Jamaica
+    es: Jamaica
+    ja: ジャマイカ
+jp:
+  native: 日本
+  name:
+    en: Japan
+    es: Japón
+    ja: 日本
+jo:
+  native: الاردن
+  name:
+    en: Jordan
+    es: Jordania
+    ja: ヨルダン
+kz:
+  native: Қазақстан
+  name:
+    en: Kazakhstan
+    es: Kazajistán
+    ja: カザフスタン
+ke:
+  native: Kenya
+  name:
+    en: Kenya
+    es: Kenia
+    ja: ケニア
+ki:
+  native: Kiribati
+  name:
+    en: Kiribati
+    es: Kiribati
+    ja: キリバス
+kr:
+  native: 한국
+  name:
+    en: Korea
+    es: Corea del Sur
+    ja: 韓国
+kw:
+  native: الكويت
+  name:
+    en: Kuwait
+    es: Kuwait
+    ja: クウェート
+kg:
+  native: Кыргызстан
+  name:
+    en: Kyrgyzstan
+    es: Kirguistán
+    ja: キルギスタン
+la:
+  native: ນລາວ
+  name:
+    en: Laos
+    es: Laos
+    ja: ラオス
+lv:
+  native: Latvija
+  name:
+    en: Latvia
+    es: Letonia
+    ja: ラトビア
+lb:
+  native: لبنان
+  name:
+    en: Lebanon
+    es: Líbano
+    ja: レバノン
+ls:
+  native: Lesotho
+  name:
+    en: Lesotho
+    es: Lesoto
+    ja: レソト
+lr:
+  native: Liberia
+  name:
+    en: Liberia
+    es: Liberia
+    ja: リベリア
+ly:
+  native: ليبيا
+  name:
+    en: Libya
+    es: Libia
+    ja: リビア
+li:
+  native: Liechtenstein
+  name:
+    en: Liechtenstein
+    es: Liechtenstein
+    ja: リヒテンシュタイン
+lt:
+  native: Lietuva
+  name:
+    en: Lithuania
+    es: Lituania
+    ja: リトアニア
+lu:
+  native: Lëtzebuerg
+  name:
+    en: Luxembourg
+    es: Luxemburgo
+    ja: ルクセンブルグ
+mf:
+  native: Saint Martin
+  name:
+    en: Saint Martin
+    es: San Martín
+    ja: セント・マーチン島
+mo:
+  native: Macau
+  name:
+    en: Macau
+    es: Macao
+    ja: マカオ
+mk:
+  native: Македонија
+  name:
+    en: Macedonia
+    es: Macedonia
+    ja: マケドニア共和国
+mg:
+  native: Madagasikara
+  name:
+    en: Madagascar
+    es: Madagascar
+    ja: マダガスカル
+mw:
+  native: Malawi
+  name:
+    en: Malawi
+    es: Malaui
+    ja: マラウイ
+my:
+  native: Malaysia
+  name:
+    en: Malaysia
+    es: Malasia
+    ja: マレーシア
+mv:
+  native: Republic of the Maldives
+  name:
+    en: Maldives
+    es: Maldivas
+    ja: モルディブ
+ml:
+  native: Mali
+  name:
+    en: Mali
+    es: Mali
+    ja: マリ共和国
+mt:
+  native: Malta
+  name:
+    en: Malta
+    es: Malta
+    ja: マルタ
+mh:
+  native: Marshall Islands
+  name:
+    en: Marshall Islands
+    es: Islas Marshall
+    ja: マーシャル諸島
+mq:
+  native: Martinique
+  name:
+    en: Martinique
+    es: Martinica
+    ja: マルティニーク
+mr:
+  native: موريتانيا
+  name:
+    en: Mauritania
+    es: Mauritania
+    ja: モーリタニア
+mu:
+  native: Mauritius
+  name:
+    en: Mauritius
+    es: Mauricio
+    ja: モーリシャス
+yt:
+  native: Mayotte
+  name:
+    en: Mayotte
+    es: Mayotte
+    ja: マヨット
+mx:
+  native: México
+  name:
+    en: Mexico
+    es: México
+    ja: メキシコ
+fm:
+  native: Micronesia
+  name:
+    en: Micronesia
+    es: Micronesia
+    ja: ミクロネシア
+md:
+  native: Moldova
+  name:
+    en: Moldova
+    es: Moldavia
+    ja: モルドバ
+mc:
+  native: Monaco
+  name:
+    en: Monaco
+    es: Mónaco
+    ja: モナコ
+mn:
+  native: Монгол Улс
+  name:
+    en: Mongolia
+    es: Mongolia
+    ja: モンゴル
+ms:
+  native: Montserrat
+  name:
+    en: Montserrat
+    es: Montserrat
+    ja: モントセラト
+ma:
+  native: المغرب
+  name:
+    en: Morocco
+    es: Marruecos
+    ja: モロッコ
+mz:
+  native: Moçambique
+  name:
+    en: Mozambique
+    es: Mozambique
+    ja: モザンビーク
+mm:
+  native: Burma
+  name:
+    en: Myanmar
+    es: Myanmar
+    ja: ミャンマー
+na:
+  native: Namibia
+  name:
+    en: Namibia
+    es: Namibia
+    ja: ナミビア
+nr:
+  native: Naoero
+  name:
+    en: Nauru
+    es: Nauru
+    ja: ナウル
+np:
+  native: नेपाल
+  name:
+    en: Nepal
+    es: Nepal
+    ja: ネパール
+nl:
+  native: Nederland
+  name:
+    en: Netherlands
+    es: Países Bajos
+    ja: オランダ
+an:
+  native: Netherlands Antilles
+  name:
+    en: Netherlands Antilles
+    es: Antillas Neerlandesas
+    ja: オランダ領アンティル
+nc:
+  native: New Caledonia
+  name:
+    en: New Caledonia
+    es: Nueva Caledonia
+    ja: ニューカレドニア
+nz:
+  native: New Zealand
+  name:
+    en: New Zealand
+    es: Nueva Zelanda
+    ja: ニュージーランド
+ni:
+  native: Nicaragua
+  name:
+    en: Nicaragua
+    es: Nicaragua
+    ja: ニカラグア
+ne:
+  native: Niger
+  name:
+    en: Niger
+    es: Níger
+    ja: ニジェール
+ng:
+  native: Nigeria
+  name:
+    en: Nigeria
+    es: Nigeria
+    ja: ナイジェリア
+nu:
+  native: Niue
+  name:
+    en: Niue
+    es: Isla Niue
+    ja: ニウエ
+nf:
+  native: Norfolk Island
+  name:
+    en: Norfolk Island
+    es: Isla Norfolk
+    ja: ノーフォーク島
+kp:
+  native: 한국
+  name:
+    en: North Korea
+    es: Corea del Norte
+    ja: 朝鮮民主主義人民共和国
+mp:
+  native: Northern Mariana Islands
+  name:
+    en: Northern Mariana Islands
+    es: Islas Marianas del Norte
+    ja: 北マリアナ諸島
+'no':
+  native: Norge
+  name:
+    en: Norway
+    es: Noruega
+    ja: ノルウェー
+om:
+  native: عمان
+  name:
+    en: Oman
+    es: Omán
+    ja: オマーン
+pk:
+  native: پاکستان
+  name:
+    en: Pakistan
+    es: Pakistán
+    ja: パキスタン
+pw:
+  native: Belau
+  name:
+    en: Palau
+    es: Palau
+    ja: パラオ
+pa:
+  native: Panamá
+  name:
+    en: Panama
+    es: Panamá
+    ja: パナマ
+pg:
+  native: Papua New Guinea
+  name:
+    en: Papua New Guinea
+    es: Papúa Nueva Guinea
+    ja: パプアニューギニア
+py:
+  native: Paraguay
+  name:
+    en: Paraguay
+    es: Paraguay
+    ja: パラグアイ
+pe:
+  native: Perú
+  name:
+    en: Peru
+    es: Perú
+    ja: ペルー
+ph:
+  native: Pilipinas
+  name:
+    en: Philippines
+    es: Filipinas
+    ja: フィリピン
+pn:
+  native: Pitcairn
+  name:
+    en: Pitcairn
+    es: Pitcairn
+    ja: ピトケアン諸島
+pl:
+  native: Polska
+  name:
+    en: Poland
+    es: Polonia
+    ja: ポーランド
+pt:
+  native: Portugal
+  name:
+    en: Portugal
+    es: Portugal
+    ja: ポルトガル
+pr:
+  native: Puerto Rico
+  name:
+    en: Puerto Rico
+    es: Puerto Rico
+    ja: プエルトリコ
+qa:
+  native: قطر
+  name:
+    en: Qatar
+    es: Qatar
+    ja: カタール
+re:
+  native: Reunion
+  name:
+    en: Reunion
+    es: Reunión
+    ja: レユニオン
+ro:
+  native: România
+  name:
+    en: Romania
+    es: Rumanía
+    ja: ルーマニア
+ru:
+  native: Россия
+  name:
+    en: Russia
+    es: Rusia
+    ja: ロシア
+rw:
+  native: Rwanda
+  name:
+    en: Rwanda
+    es: Ruanda
+    ja: ルワンダ
+sh:
+  native: Saint Helena
+  name:
+    en: Saint Helena
+    es: Santa Elena
+    ja: セントヘレナ
+kn:
+  native: Saint Kitts and Nevis
+  name:
+    en: Saint Kitts and Nevis
+    es: San Cristóbal y Nieves
+    ja: セントクリストファー・ネイビス
+lc:
+  native: Saint Lucia
+  name:
+    en: Saint Lucia
+    es: Santa Lucía
+    ja: セントルシア
+pm:
+  native: Saint Pierre and Miquelon
+  name:
+    en: Saint Pierre and Miquelon
+    es: San Pedro y Miquelón
+    ja: サンピエール島・ミクロン島
+vc:
+  native: Saint Vincent and the Grenadines
+  name:
+    en: Saint Vincent and the Grenadines
+    es: San Vicente y las Granadinas
+    ja: セントビンセント・グレナディーン
+ws:
+  native: Samoa
+  name:
+    en: Samoa
+    es: Samoa
+    ja: サモア
+sm:
+  native: San Marino
+  name:
+    en: San Marino
+    es: San Marino
+    ja: サンマリノ
+st:
+  native: São Tomé and Príncipe
+  name:
+    en: São Tomé and Príncipe
+    es: Santo Tomé y Príncipe
+    ja: サントメ・プリンシペ
+sa:
+  native: المملكة العربية السعودية
+  name:
+    en: Saudi Arabia
+    es: Arabia Saudí
+    ja: サウジアラビア
+rs:
+  native: Србија
+  name:
+    en: Serbia
+    es: Serbia
+    ja: セルビア
+sn:
+  native: Sénégal
+  name:
+    en: Senegal
+    es: Senegal
+    ja: セネガル
+sc:
+  native: Seychelles
+  name:
+    en: Seychelles
+    es: Seychelles
+    ja: セーシェル
+sl:
+  native: Sierra Leone
+  name:
+    en: Sierra Leone
+    es: Sierra Leona
+    ja: シエラレオネ
+sg:
+  native: Singapura
+  name:
+    en: Singapore
+    es: Singapur
+    ja: シンガポール
+sk:
+  native: Slovensko
+  name:
+    en: Slovakia
+    es: Eslovaquia
+    ja: スロバキア
+si:
+  native: Slovenija
+  name:
+    en: Slovenia
+    es: Eslovenia
+    ja: スロベニア
+sb:
+  native: Solomon Islands
+  name:
+    en: Solomon Islands
+    es: Islas Salomón
+    ja: ソロモン諸島
+so:
+  native: Soomaaliya
+  name:
+    en: Somalia
+    es: Somalia
+    ja: ソマリア
+za:
+  native: South Africa
+  name:
+    en: South Africa
+    es: Sudáfrica
+    ja: 南アフリカ
+es:
+  native: España
+  name:
+    en: Spain
+    es: España
+    ja: スペイン
+lk:
+  native: Sri Lanka
+  name:
+    en: Sri Lanka
+    es: Sri Lanka
+    ja: スリランカ
+sd:
+  native: السودان
+  name:
+    en: Sudan
+    es: Sudán
+    ja: スーダン
+sr:
+  native: Suriname
+  name:
+    en: Suriname
+    es: Surinam
+    ja: スリナム
+sj:
+  native: Svalbard and Jan Mayen
+  name:
+    en: Svalbard and Jan Mayen
+    es: Svalbard y Jan Mayen
+    ja: スヴァールバル諸島およびヤンマイエン島
+sz:
+  native: Swaziland
+  name:
+    en: Swaziland
+    es: Suazilandia
+    ja: スワジランド
+se:
+  native: Sverige
+  name:
+    en: Sweden
+    es: Suecia
+    ja: スウェーデン
+ch:
+  native: Schweiz
+  name:
+    en: Switzerland
+    es: Suiza
+    ja: スイス
+sy:
+  native: سوريا
+  name:
+    en: Syria
+    es: Siria
+    ja: シリア
+tw:
+  native: 台灣
+  name:
+    en: Taiwan
+    es: Taiwán
+    ja: 台湾
+tj:
+  native: Тоҷикистон
+  name:
+    en: Tajikistan
+    es: Tayikistán
+    ja: タジキスタン
+tz:
+  native: Tanzania
+  name:
+    en: Tanzania
+    es: Tanzania
+    ja: タンザニア
+th:
+  native: ราชอาณาจักรไทย
+  name:
+    en: Thailand
+    es: Tailandia
+    ja: タイ
+tg:
+  native: Togo
+  name:
+    en: Togo
+    es: Togo
+    ja: トーゴ
+tk:
+  native: Tokelau
+  name:
+    en: Tokelau
+    es: Tokelau
+    ja: トケラウ
+to:
+  native: Tonga
+  name:
+    en: Tonga
+    es: Tonga
+    ja: トンガ
+tt:
+  native: Trinidad and Tobago
+  name:
+    en: Trinidad and Tobago
+    es: Trinidad y Tobago
+    ja: トリニダード・トバゴ
+tn:
+  native: تونس
+  name:
+    en: Tunisia
+    es: Túnez
+    ja: チュニジア
+tr:
+  native: Türkiye
+  name:
+    en: Turkey
+    es: Turquía
+    ja: トルコ
+tm:
+  native: Türkmenistan
+  name:
+    en: Turkmenistan
+    es: Turkmenistán
+    ja: トルクメニスタン
+tc:
+  native: Turks and Caicos Islands
+  name:
+    en: Turks and Caicos Islands
+    es: Islas Turcas y Caicos
+    ja: タークス・カイコス諸島
+tv:
+  native: Tuvalu
+  name:
+    en: Tuvalu
+    es: Tuvalu
+    ja: ツバル
+ug:
+  native: Uganda
+  name:
+    en: Uganda
+    es: Uganda
+    ja: ウガンダ
+ua:
+  native: Україна
+  name:
+    en: Ukraine
+    es: Ucrania
+    ja: ウクライナ
+ae:
+  native: الإمارات العربيّة المتّحدة
+  name:
+    en: United Arab Emirates
+    es: Emiratos Árabes Unidos
+    ja: アラブ首長国連邦
+gb:
+  native: United Kingdom
+  name:
+    en: United Kingdom
+    es: Reino Unido
+    ja: イギリス
+us:
+  native: United States
+  name:
+    en: United States
+    es: Estados Unidos
+    ja: アメリカ
+um:
+  native: United States minor outlying islands
+  name:
+    en: United States minor outlying islands
+    es: Islas menores alejadas de los Estados Unidos
+    ja: 合衆国領有小離島
+uy:
+  native: Uruguay
+  name:
+    en: Uruguay
+    es: Uruguay
+    ja: ウルグアイ
+uz:
+  native: O'zbekiston
+  name:
+    en: Uzbekistan
+    es: Uzbekistán
+    ja: ウズベキスタン
+vu:
+  native: Vanuatu
+  name:
+    en: Vanuatu
+    es: Vanuatu
+    ja: バヌアツ
+va:
+  native: Città del Vaticano
+  name:
+    en: Vatican City
+    es: Ciudad del Vaticano
+    ja: バチカン
+ve:
+  native: Venezuela
+  name:
+    en: Venezuela
+    es: Venezuela
+    ja: ベネズエラ
+vn:
+  native: Việt Nam
+  name:
+    en: Vietnam
+    es: Vietnam
+    ja: ベトナム
+vg:
+  native: Virgin Islands, British
+  name:
+    en: Virgin Islands, British
+    es: Islas Vírgenes Británicas
+    ja: イギリス領ヴァージン諸島
+vi:
+  native: Virgin Islands, U.S.
+  name:
+    en: Virgin Islands, U.S.
+    es: Islas Vírgenes de los Estados Unidos
+    ja: アメリカ領ヴァージン諸島
+wf:
+  native: Wallis and Futuna
+  name:
+    en: Wallis and Futuna
+    es: Wallis y Futuna
+    ja: ウォリス・フツナ
+eh:
+  native: الصحراء الغربية
+  name:
+    en: Western Sahara
+    es: Sáhara Occidental
+    ja: 西サハラ
+ye:
+  native: اليمن
+  name:
+    en: Yemen
+    es: Yemen
+    ja: イエメン
+zm:
+  native: Zambia
+  name:
+    en: Zambia
+    es: Zambia
+    ja: ザンビア
+zw:
+  native: Zimbabwe
+  name:
+    en: Zimbabwe
+    es: Zimbabue
+    ja: ジンバブエ
+me:
+  native: Montenegro
+  name:
+    en: Montenegro
+    es: Montenegro
+    ja: モンテネグロ
+xk:
+  native: Kosovo
+  name:
+    en: Kosovo
+    es: Kosovo
+    ja: コソボ
+zz:
+  native: Various countries
+  name:
+    en: Various countries
+    es: Varios países
+    ja: その他の国
